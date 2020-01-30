@@ -3,7 +3,7 @@ version: '3'
 networks:
   auth:
     external:
-      name: auth.reaction.localhost
+      name: auth.reaction.18.219.58.136
 
 services:
 
